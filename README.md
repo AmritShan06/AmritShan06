@@ -6,7 +6,7 @@
 
 <br>
 
-- 🔍 Currently learning **NextJS and TypeScript**
+- 🔍 Currently learning **NextJS**
 
 
 # 🧑🏻‍💻 About Me
