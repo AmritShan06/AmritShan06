@@ -58,8 +58,4 @@ Additionally, I have a solid understanding of Computer Science Fundamentals.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 
-#### Others:
-![Safari](https://img.shields.io/badge/Safari-000000?style=flat&logo=Safari&logoColor=white)
-![MacOS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmritShan06&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AmritShan06" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=AmritShan06&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="AmritShan06"</p>
+
