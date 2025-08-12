@@ -10,7 +10,7 @@
 
 
 # 🧑🏻‍💻 About Me
-I am Amritanshu Shandilya from Siddaganga Institute of Technology, Tumkur, Karnataka currently in the 4th semester pursuing Electronics and Communication Engineering having a CGPA of 8.90. 
+I am Amritanshu Shandilya from Siddaganga Institute of Technology, Tumkur, Karnataka currently in the 5th semester pursuing Electronics and Communication Engineering having a CGPA of 8.61. 
 I have developed a strong proficiency in MERN stack and have successfully built and deployed several projects using these technologies. My passion lies in leveraging technology to craft innovative solutions for real-world challenges. 
 Additionally, I have a solid understanding of Computer Science Fundamentals.
 
